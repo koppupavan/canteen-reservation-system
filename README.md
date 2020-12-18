@@ -1,1 +1,1 @@
-# canteen-reservation-system
+# canteenreservationsystem
